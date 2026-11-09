@@ -1,9 +1,9 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manav&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20App%20Developer&descAlignY=58&descAlign=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Manav&fontSize=70&fontColor=ffffff" width="100%" />
 
 <!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=800&lines=Building+Trading+Titans;Shipping+AI+tools+and+web+apps;Turning+ideas+into+working+products;Open+source+contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=800&lines=Web+%26+App+Developer;Building+Trading+Titans;Shipping+AI+tools+and+web+apps;Open+source+contributor" alt="Typing SVG" />
 </p>
 
 <!-- ABOUT -->
@@ -43,26 +43,6 @@
 | **[portfolioroaster.web](https://github.com/Manavagg2003/portfolioroaster.web)** | Portfolio review web app | JavaScript |
 | **[Intrusion Detection System](https://github.com/Manavagg2003/Intrusion-Detection-Prevention-System)** | Flags anomalies in file, network and process activity | Python |
 | **[AIVOA](https://github.com/Manavagg2003/AIVOA)** | AI project | Python |
-
----
-
-<!-- STATS -->
-<h3 align="center">📊 GitHub stats</h3>
-
-<p align="center">
-<img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Manavagg2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavagg2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Manavagg2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
-</p>
-
-<!-- ACTIVITY -->
-<p align="center">
-<img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Manavagg2003&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
-</p>
 
 ---
 

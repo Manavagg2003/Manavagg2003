@@ -1,12 +1,24 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=170&section=header&text=Hi%2C%20I'm%20Manav&fontSize=44&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Manav&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20%26%20App%20Developer&descAlignY=58&descAlign=62" width="100%" />
 
 <!-- TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=700&lines=Web+%26+App+Developer;Building+Trading+Titans;Shipping+AI+tools+and+products;Open+source+contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00D1FF&center=true&vCenter=true&width=800&lines=Building+Trading+Titans;Shipping+AI+tools+and+web+apps;Turning+ideas+into+working+products;Open+source+contributor" alt="Typing SVG" />
 </p>
 
-<!-- BADGES -->
+<!-- ABOUT -->
+<h3 align="center">👋 About me</h3>
+
+- 💻 I build web and app products, from AI-powered tools to portfolio sites
+- 📈 Main developer of **Trading Titans**
+- 🤝 Contributing to open source, one merged PR at a time
+- 🎯 Focused on clean code, fast shipping, and projects people actually use
+
+---
+
+<!-- STACK -->
+<h3 align="center">🛠 Tech stack</h3>
+
 <p align="center">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -14,6 +26,8 @@
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
@@ -25,21 +39,32 @@
 | Project | What it is | Stack |
 |---|---|---|
 | **[Trading Titans](https://github.com/triloks333/Trading-Titans)** | Main developer | — |
-| **[roastmaster.ai](https://github.com/Manavagg2003/roastmaster.ai)** | AI roast generator, rebranded and optimized · [Live](https://roastmaster-ai-tau.vercel.app) | JavaScript |
+| **[roastmaster.ai](https://github.com/Manavagg2003/roastmaster.ai)** | AI roast generator, rebranded and optimized · [Live demo](https://roastmaster-ai-tau.vercel.app) | JavaScript |
 | **[portfolioroaster.web](https://github.com/Manavagg2003/portfolioroaster.web)** | Portfolio review web app | JavaScript |
 | **[Intrusion Detection System](https://github.com/Manavagg2003/Intrusion-Detection-Prevention-System)** | Flags anomalies in file, network and process activity | Python |
 | **[AIVOA](https://github.com/Manavagg2003/AIVOA)** | AI project | Python |
 
+---
+
 <!-- STATS -->
+<h3 align="center">📊 GitHub stats</h3>
+
 <p align="center">
-<img height="180" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Manavagg2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavagg2003&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="190" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Manavagg2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="190" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manavagg2003&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <!-- TROPHIES -->
 <p align="center">
-<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Manavagg2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=4" />
+<img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=Manavagg2003&theme=onedark&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" />
 </p>
+
+<!-- ACTIVITY -->
+<p align="center">
+<img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Manavagg2003&theme=react-dark&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff" width="100%" />
+</p>
+
+---
 
 <!-- CURRENTLY -->
 <h3 align="center">🌱 Right now</h3>
@@ -53,4 +78,4 @@
 <img src="https://komarev.com/ghpvc/?username=Manavagg2003&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" />
